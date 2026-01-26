@@ -2,7 +2,7 @@
 
 Coocaa TV operating system
 
-![image-20260126202858700](unauth.assets/image-20260126202858700.png)
+![image-20260126202858700](https://github.com/jiecoke/daaaaaaaaaaaaaaasdd/blob/main/unauth.assets/image-20260126202858700.png)
 
 Vendor website : https://passport.coocaa.com/
 
@@ -24,7 +24,7 @@ The coocaa system has an unauthorized access vulnerability, allowing access to t
 
 Hunter :  web.title=="登录酷开帐户"
 
-![image-20260126203217353.png](unauth.assets/image-20260126203217353.png)
+![image-20260126203217353.png](https://github.com/jiecoke/daaaaaaaaaaaaaaasdd/blob/main/unauth.assets/image-20260126203217353.png)
 
 
 
@@ -38,13 +38,13 @@ case1:
 
 No authentication is required; accessing an unauthorized link allows an attacker to obtain the interface for changing a bound mobile phone number.
 
-![image-20260126203641850](unauth.assets/image-20260126203641850.png)
+![image-20260126203641850](https://github.com/jiecoke/daaaaaaaaaaaaaaasdd/blob/main/unauth.assets/image-20260126203641850.png)
 
 the verification code just received
 
 
 
-![image-20260126203845606](unauth.assets/image-20260126203845606.png)
+![image-20260126203845606](https://github.com/jiecoke/daaaaaaaaaaaaaaasdd/blob/main/unauth.assets/image-20260126203845606.png)
 
 **To maintain system availability, we will only prove the vulnerability exists here and will not proceed with the final mobile number binding change.**
 
