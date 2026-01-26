@@ -2,7 +2,7 @@
 
 Das Parking Management System6.2.0
 
-![image-20260122184037465](sql.assets/image-20260122184037465.png)
+![image-20260122184037465](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/sql.assets/image-20260122184037465.png)
 
 Vendor website : http://221.7.133.9:18011/#/login
 
@@ -24,7 +24,7 @@ A SQL INJECTION  vulnerability exists in the Das Parking Management System.The s
 
 Hunter :  web.title=="DasPmsWeb" and web.body="assets/images/loginLogo.png"
 
-![image-20260126173642888](sql.assets/image-20260126173642888.png)
+![image-20260126173642888](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/sql.assets/image-20260126173642888.png)
 
 
 
@@ -46,11 +46,11 @@ Connection: keep-alive
 
 The parameter 'field' in the request body is vulnerable to SQL injection.
 
-![image-20260126183017952](sql.assets/image-20260126183017952.png)
+![image-20260126183017952](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/sql.assets/image-20260126183017952.png)
 
 sqlmap result:
 
-![image-20260126183221499](sql.assets/image-20260126183221499.png)
+![image-20260126183221499](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/sql.assets/image-20260126183221499.png)
 
 
 
