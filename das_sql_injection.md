@@ -2,7 +2,7 @@
 
 停车场管理系统 6.2.0
 
-![image-20260122184037465](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/1.assets/image-/image-20260122184037465.png)
+![image-20260122184037465](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/1.assets/image-20260122184037465.png)
 
 Vendor website : http://221.7.133.9:18011/#/login
 
@@ -24,7 +24,7 @@ The Das Parking Management System is vulnerable to unauthorized access. This una
 
 Hunter :  web.title=="DasPmsWeb" and web.body="assets/images/loginLogo.png"
 
-![image-20260126173642888](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/1.assets/image-/image-20260126173642888.png)
+![image-20260126173642888](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/1.assets/image-20260126173642888.png)
 
 
 
@@ -49,7 +49,7 @@ Content-Length: 158
 
 The request packet returns data, and the content varies depending on the system configuration. In some cases, it exposes personal information; in others, it leaks vehicle-related data.
 
-![image-20260126174751024](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/1.assets/image-/image-20260126174751024.png)
+![image-20260126174751024](https://raw.githubusercontent.com/jiecoke/daaaaaaaaaaaaaaasdd/refs/heads/main/1.assets/image-20260126174751024.png)
 
 
 
